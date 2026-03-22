@@ -1,6 +1,6 @@
 /*
 FOR i:=10 TO 1 STEP -1
-        PRINT i
+        PRINT num * i
  */
 
 import java.util.*;
